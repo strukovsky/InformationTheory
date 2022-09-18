@@ -1,0 +1,5 @@
+*.strukovsky_encoded
+*.strukovsky_decoded
+venv/
+.idea/
+.vscode/
